@@ -37,7 +37,7 @@ O Drink Delivery é um aplicativo de delivery de cervejas desenvolvido para simp
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/welitonlimaa/drink-delivery.git
+git clone https://github.com/net0well/drink-delivery-fullstack.git
 ```
 2. Instale as dependências:
 ```bash
